@@ -1,7 +1,2 @@
-<<<<<<< HEAD
 Heloo git 23
 Second line asddasd
-=======
-Heloo git
-Second line asd
->>>>>>> parent of 3815669 (txt to html)
